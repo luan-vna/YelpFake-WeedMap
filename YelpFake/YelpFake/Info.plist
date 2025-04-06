@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>Bearer B_bQgx3QzaG_lNTfW3X3CH6dZdcM7FGJTj7ajBMl64-9SCFmTUF9lbhuFOtzZRLyrT6n1o3UveqHoif8LAdt3P_yFOhhxBUaxjwlkJlmxCmlJ_OwVA_CbYow7ZbwZ3Yx</string>
+	<key>BASE_URL</key>
+	<string>api.yelp.com</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
